@@ -35,3 +35,4 @@ bin/rails server
 第6週の CRUD デバッグ演習用リポジトリとは異なり、最初から正常に動く状態です。
 
 [担当A] GitHub Flow でチーム開発をマスターする！
+[担当B] GitHub Flow を使えばコンフリクトも怖くない！
